@@ -123,8 +123,6 @@ svg {
     color: var(--Cyan);
 }
 
-
-
 .overlay {
     position: absolute;
     top: 0;
@@ -149,8 +147,6 @@ svg {
 .nft-img:hover .overlay {
     opacity: .6;
 }
-
-
 
 /* Attribution */
 
